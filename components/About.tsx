@@ -87,7 +87,7 @@ export default function About() {
         >
           <div className="glass-effect rounded-3xl p-12 max-w-4xl mx-auto">
             <h3 className="text-3xl font-bold mb-6">
-              <span className="gradient-text">Cool stuff we do lol</span>
+              <span className="gradient-text">Our Mission</span>
             </h3>
             <p className="text-xl text-gray-300 leading-relaxed">
               To empower businesses with innovative digital marketing solutions that drive 
