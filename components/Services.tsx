@@ -80,14 +80,6 @@ export default function Services() {
                   </li>
                 ))}
               </ul>
-              
-              <motion.button
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-                className="mt-6 text-mint-500 font-semibold hover:text-mint-400 transition-colors duration-200"
-              >
-                Learn More →
-              </motion.button>
             </motion.div>
           ))}
         </div>
